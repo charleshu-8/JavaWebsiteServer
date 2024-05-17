@@ -1,0 +1,57 @@
+BODY {
+	MARGIN: 0px
+}
+TD {
+	FONT: 11px Arial, Helvetica, sans-serif; COLOR: #666666
+}
+A {
+	COLOR: #993300
+}
+A:hover {
+	COLOR: #5c743d
+}
+#navigation TD {
+	BORDER-BOTTOM: #f4ffe4 1px solid
+}
+#navigation A {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 6px; DISPLAY: block; FONT: bold 11px/16px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.1em; COLOR: #d5edb3; TEXT-DECORATION: none; PADDING-TOP: 8px
+}
+#navigation A:hover {
+	BACKGROUND: #99cc66; COLOR: #993300
+}
+#logo {
+	FONT: 24px/30px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.2em; COLOR: #5c743d
+}
+#tagline {
+	FONT: 11px/18px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.4em; COLOR: #993300
+}
+#monthformat {
+	BORDER-BOTTOM: #5c743d 1px dashed
+}
+#dateformat {
+	FONT: 11px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.2em; COLOR: #993300
+}
+#dateformat A {
+	FONT: bold 11px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.1em; COLOR: #993300; TEXT-DECORATION: none
+}
+#dateformat A:hover {
+	LETTER-SPACING: 0.1em; COLOR: #f4ffe4
+}
+.bodyText {
+	MARGIN-TOP: 0px; FONT: 11px/20px Arial, Helvetica, sans-serif; COLOR: #666666
+}
+.pageName {
+	FONT: 18px/26px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.21em; COLOR: #99cc66
+}
+.subHeader {
+	FONT: bold 11px/22px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.2em; COLOR: #993300
+}
+.quote {
+	FONT: 20px/30px Arial, Helvetica, sans-serif; COLOR: #759da1
+}
+.smallText {
+	FONT: 10px/22px Arial, Helvetica, sans-serif; COLOR: #666666
+}
+.navText {
+	FONT: 11px/16px Arial, Helvetica, sans-serif; LETTER-SPACING: 0.1em; COLOR: #003366; TEXT-DECORATION: none
+}
